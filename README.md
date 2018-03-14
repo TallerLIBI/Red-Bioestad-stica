@@ -1,1 +1,2 @@
 # Red-Bioestad-stica
+Red-Bioestadística es un proyecto multidisciplinario e interactivo  que plantea crear una herramienta que nos permita hacer tratamiento, orden y análisis de datos crudos para determinar valores de significancia al analizar experimentos de fenómenos naturales lo cual nos ayudara a determinar el impacto de los experimentos en  laboratorio o en campo se plantea poder hacer análisis simples como por ejemplo determinar el promedio y tiene como finalidad ser tan complejo que se puedan generar meta-análisis  a diferentes niveles estadísticos.
