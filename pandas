@@ -1,0 +1,3 @@
+# descarge la libreria pandas para tratamiento de datos con la cosola de anaconda en windows
+
+$ pip install pandas
